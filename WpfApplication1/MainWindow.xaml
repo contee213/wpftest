@@ -3,6 +3,9 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         Title="MainWindow" Height="350" Width="525">
     <Grid>
-        
+        <Button Content="Button" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="127,126,0,0"/>
+        <CheckBox Content="CheckBox" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="128,74,0,0"/>
+        <ComboBox HorizontalAlignment="Left" VerticalAlignment="Top" Width="120" Margin="128,97,0,0"/>
+
     </Grid>
 </Window>
