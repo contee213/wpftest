@@ -24,6 +24,8 @@ namespace WpfApplication1
         {
             // memo
             InitializeComponent();
+
+            // test
         }
     }
 }
