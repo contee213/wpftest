@@ -10,6 +10,7 @@ namespace WpfApplication1
 {
     /// <summary>
     /// App.xaml の相互作用ロジック
+    /// 日本語コメント
     /// </summary>
     public partial class App : Application
     {
