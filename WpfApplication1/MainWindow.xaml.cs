@@ -22,10 +22,10 @@ namespace WpfApplication1
     {
         public MainWindow()
         {
+            // memo
             InitializeComponent();
 
-            // test2
-            // test3
+            // test
         }
     }
 }
