@@ -17,6 +17,7 @@ namespace WpfApplication1
 {
     /// <summary>
     /// MainWindow.xaml の相互作用ロジック
+    /// 日本語コメント
     /// </summary>
     public partial class MainWindow : Window
     {
