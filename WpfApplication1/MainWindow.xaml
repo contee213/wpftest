@@ -8,6 +8,7 @@
             <CheckBox Content="CheckBox" HorizontalAlignment="Left" VerticalAlignment="Top"/>
             <Button Content="Button" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="-1,52,0,0"/>
         </Grid>
+        <TextBlock x:Name="textBlock" HorizontalAlignment="Left" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top" Margin="10,86,0,0"/>
 
     </Grid>
 </Window>
